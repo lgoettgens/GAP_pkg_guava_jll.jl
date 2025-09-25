@@ -1,0 +1,86 @@
+[[GAP_pkg_guava]]
+arch = "aarch64"
+git-tree-sha1 = "e23383922c1b1195260066a19920516b5b2ea9e4"
+os = "macos"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "3632701c4a51989795f79cb8bad006a9fdd917d1ba056be9095d72800a0b9349"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_guava]]
+arch = "aarch64"
+git-tree-sha1 = "53007c86a2b066e0b67baf7113ba208f0265b005"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "ce10959fe70d94e3f2be75e2b0de26bc2c1312692bceeb4c6d15b245c35267b6"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_guava]]
+arch = "aarch64"
+git-tree-sha1 = "e88a5e208c29cfe8d81f64e76122ec3639bb90dc"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "79e64cbc412cb06b04534f1541c35d1adececbb77fc4b7d22448101eae451eb4"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_guava]]
+arch = "aarch64"
+git-tree-sha1 = "4224bb7baf756570ed7d1a2a4c326b37e26fd6aa"
+os = "freebsd"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "00d56ca39ee547b727c3cc2c68508c87065f13199b3ed5cf0a1bac9651d72b9e"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_guava]]
+arch = "powerpc64le"
+git-tree-sha1 = "478e4bfab007fd5f3d56b10e897f230ccca84dd7"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "d8d4126eea89d3b73450950663945119190f1191e32f4f5f541461d4bb38d99c"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_guava]]
+arch = "riscv64"
+git-tree-sha1 = "20b2f6ea09d2fb916b29740b1e3e2c9d4dda35cc"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "f7e65ab79f018f03161d3b2fe609f62ba9c7d8c76ecb1e98fef6ea1e5ca8fd32"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_guava]]
+arch = "x86_64"
+git-tree-sha1 = "ffaa8e2c93d0a05beb5cc43822346a9dc2d42a56"
+os = "macos"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "2f489d263049b8580ae21769e13051f3456a0b079f5c8b2fb20071685ace139f"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_guava]]
+arch = "x86_64"
+git-tree-sha1 = "51be3d235991825eae9f752e274b49843f9ac82e"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "0330a781a819d51e644d63037cc3794770dcf27e057f33e1f5e2ffbac5dfb95e"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_guava]]
+arch = "x86_64"
+git-tree-sha1 = "95ff51641c0a7134d82999bac2d15f89a4334ff3"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "dd09e23ee8afa471a850730fcdb4f8a7baeb534da4b0fa059d6c105bbc08e4f0"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_guava]]
+arch = "x86_64"
+git-tree-sha1 = "faf4f4ae46beeb5c3188c87cc781478688a6a539"
+os = "freebsd"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "5a75dfbb22a1bd21133c6c46a2fa4aeb0115e0c43101f430377a86e4fe4a582d"
+    url = "https://github.com/lgoettgens/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v301.200000.0+0/GAP_pkg_guava.v301.200000.0.x86_64-unknown-freebsd.tar.gz"
